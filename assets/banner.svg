@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="校园演示工坊 banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1F3A5F"/>
+      <stop offset="100%" stop-color="#14283F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#7FA8D0" fill="none" stroke-width="1">
+    <path d="M760 40H1160V280H760Z"/>
+    <path d="M800 40V280M880 40V280M960 40V280M1040 40V280M1120 40V280"/>
+    <path d="M760 100H1160M760 160H1160M760 220H1160"/>
+  </g>
+  <g>
+    <rect x="820" y="90" width="300" height="150" rx="6" fill="#FFFFFF" opacity="0.95"/>
+    <rect x="820" y="90" width="300" height="14" rx="6" fill="#2E6FB7"/>
+    <rect x="840" y="126" width="120" height="14" rx="3" fill="#1F3A5F"/>
+    <rect x="840" y="152" width="240" height="7" rx="3" fill="#C8D4E0"/>
+    <rect x="840" y="168" width="210" height="7" rx="3" fill="#C8D4E0"/>
+    <rect x="840" y="192" width="60" height="30" rx="4" fill="#2E6FB7" opacity="0.85"/>
+    <rect x="908" y="192" width="60" height="30" rx="4" fill="#2E6FB7" opacity="0.55"/>
+    <rect x="976" y="192" width="60" height="30" rx="4" fill="#2E6FB7" opacity="0.3"/>
+  </g>
+  <text x="72" y="118" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="52" font-weight="700" fill="#FFFFFF">校园演示工坊</text>
+  <rect x="74" y="142" width="70" height="4" fill="#4C90D8"/>
+  <text x="72" y="196" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="23" fill="#C8D9EC">一份大纲，生成一份可编辑的 PPT</text>
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#9DBBD8">
+    <rect x="72" y="230" width="150" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.08" stroke="#4C90D8" stroke-opacity="0.5"/>
+    <text x="147" y="255" text-anchor="middle">毕业答辩</text>
+    <rect x="234" y="230" width="150" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.08" stroke="#4C90D8" stroke-opacity="0.5"/>
+    <text x="309" y="255" text-anchor="middle">教学课件</text>
+    <rect x="396" y="230" width="150" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.08" stroke="#4C90D8" stroke-opacity="0.5"/>
+    <text x="471" y="255" text-anchor="middle">学术汇报</text>
+    <rect x="558" y="230" width="150" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.08" stroke="#4C90D8" stroke-opacity="0.5"/>
+    <text x="633" y="255" text-anchor="middle">班级活动</text>
+  </g>
+</svg>
